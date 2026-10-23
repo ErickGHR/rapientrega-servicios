@@ -1,0 +1,2 @@
+# El prototipo no requiere dependencias externas en tiempo de ejecución.
+
